@@ -38,6 +38,9 @@ const Header = () => {
                         <Link to='/book' className="text-sm bg-color1 text-white p-2 rounded hover:scale-105">Book Now</Link>
                     </div>
 
+
+
+
                     <div className="lg:hidden cursor-pointer text-xl text-color1" onClick={openMenu}>
                          {
                         icon ?
