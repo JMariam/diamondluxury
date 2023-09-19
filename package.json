@@ -1,7 +1,7 @@
 {
   "name": "my-project-react",
-  "homepage": "https://jmariam.github.io/diamondluxury/",
   "version": "0.1.0",
+  "homepage": "https://jmariam.github.io/diamondluxury",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
