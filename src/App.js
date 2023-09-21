@@ -11,7 +11,7 @@ export default function App() {
     <Router>
       <Header/>
     <Routes>
-      <Route path='/' exact element={<Home/>}/>
+      <Route path='/diamondluxury/' exact element={<Home/>}/>
       <Route path='' exact element={<Err404/>}/>
     </Routes>
     <Footer/>
