@@ -1,4 +1,4 @@
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom'
 import Header from './Components/Header'
 import Home from './Page/Home'
 import Footer from './Components/Footer'
@@ -11,8 +11,8 @@ export default function App() {
     <Router>
       <Header/>
     <Routes>
-      <Route exact path='/' element={<Home/>}/>
-      <Route path='' element={<Err404/>}/>
+      <Route path='/diamondluxury' exact element={<Home/>}/>
+      <Route path='' exact element={<Err404/>}/>
     </Routes>
     <Footer/>
 </Router>
