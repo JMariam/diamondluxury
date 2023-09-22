@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diamondluxury/static/css/main.e5a23df0.css",
+    "main.css": "/diamondluxury/static/css/main.27853475.css",
     "main.js": "/diamondluxury/static/js/main.9c191e67.js",
     "static/js/787.20ca06ea.chunk.js": "/diamondluxury/static/js/787.20ca06ea.chunk.js",
     "static/media/event2.jpg": "/diamondluxury/static/media/event2.c5cd78a471fd0483736d.jpg",
@@ -33,12 +33,12 @@
     "static/media/lot2.jpg": "/diamondluxury/static/media/lot2.982c59b8cbac0ef6015f.jpg",
     "static/media/suite1.jpg": "/diamondluxury/static/media/suite1.a17ea11059d90bcef08a.jpg",
     "index.html": "/diamondluxury/index.html",
-    "main.e5a23df0.css.map": "/diamondluxury/static/css/main.e5a23df0.css.map",
+    "main.27853475.css.map": "/diamondluxury/static/css/main.27853475.css.map",
     "main.9c191e67.js.map": "/diamondluxury/static/js/main.9c191e67.js.map",
     "787.20ca06ea.chunk.js.map": "/diamondluxury/static/js/787.20ca06ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5a23df0.css",
+    "static/css/main.27853475.css",
     "static/js/main.9c191e67.js"
   ]
 }
