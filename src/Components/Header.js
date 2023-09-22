@@ -54,7 +54,7 @@ const Header = () => {
                     }
                     </div>
                         <div className="menu absolute top-[-1000%] z-50 flex flex-col items-center bg-color4 py-6  w-[70%] ml-[9%] mr-[20%] rounded-lg lg:hidden">
-                        <Link to='//diamondluxury'className="listitem text-color1 py-3 font-bold text-md hover:scale-105">Home</Link>
+                        <Link to='/diamondluxury'className="listitem text-color1 py-3 font-bold text-md hover:scale-105">Home</Link>
                         <Link to='/diamondluxury/about' className="listitem text-color1 py-3 font-bold text-md hover:scale-105">About Us</Link>
                         <Link to='/diamondluxury/services' className="listitem text-color1 py-3 font-bold text-md hover:scale-105">Our Services</Link>
                         <Link to='/diamondluxury/blog' className="listitem text-color1 py-3 font-bold text-md hover:scale-105">Blog</Link>
