@@ -16,7 +16,7 @@ const Services = () => {
               <p className="text-xs text-color3 mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam cupiditate magnam, porro perferendis aliquid impedit optio eos eum laudantium nobis nihil repellendus error hic praesentium ex dolores, sunt nam, veritatis tenetur adipisci nulla consequatur beatae. Exercitationem non accusamus dicta expedita.</p>
               <div className="flex justify-between lg:justify-normal lg:gap-8 gap-1 items-center mb-2">
      {service.map((item, index) => (
-    <button key={index} onClick={() => setValue(index)}  className={`text-xs text-color3 hover:border-b border-color1 py-2 ${
+    <button key={index} onClick={() => setValue(index)}  className={`text-xs text-color3 hover:border-b border-color1 py-2 w-full ${
       index === value && "border-b border-color1"
     }`}>{item.name}</button>
 ))}

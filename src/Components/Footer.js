@@ -7,8 +7,8 @@ const Footer = () => {
     <div className="footer bg-color1 mt-4 mb-0">
         <div className="container mx-auto p-6 relative lg:px-32">
             <div className="flex flex-col md:flex-row gap-y-10 items-center justify-between text-color5 text-xs">
-                <div className="flex text-center md:text-left  flex-col gap-3">
-                <Link to='/'><p className="logo text-xl">
+                <div className="flex items-center md:items-start flex-col gap-3">
+                <Link to='/diamondluxury'><p className="logo text-xl">
                         Diamond Luxury
                     </p></Link>
                     <div className="flex gap-8">
