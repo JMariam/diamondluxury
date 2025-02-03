@@ -1,58 +1,58 @@
 export const ServiceData = [
-        {
-            "name": "Dining & Restaurants",
-            "images": {
-                "img1": require("./img/didning1.jpg"),
-                "img2": require("./img/dining2.jpg"),
-                "img3": require("./img/event3.jpg")
-            } 
-        },
-        {
-            "name": "Packing Space",
-            "images": {
-                "img1": require( "./img/lot1.jpg"),
-                "img2": require("./img/lot2.jpg"),
-                "img3": require("./img/lot3.jpg")
-            } 
-        },
-        {
-            "name": "Spa",
-            "images": {
-                "img1": require("./img/spa1.jpg"),
-                "img2": require("./img/spa2.jpg"),
-                "img3": require("./img/spa3.jpg")
-            } 
-        },
-        {
-            "name": "Resort & Pool",
-            "images": {
-                "img1": require("./img/resort1.jpg"),
-                "img2": require("./img/resort2.jpg"),
-                "img3": require("./img/resort4.jpg")
-            } 
-        },
-        {
-            "name": "Casino",
-            "images": {
-                "img1": require("./img/casino1.jpg"),
-                "img2": require("./img/casino2.jpg"),
-                "img3": require("./img/casino3.jpg")
-            } 
-        },
-        {
-            "name": "Bedrooms",
-            "images": {
-                "img1": require("./img/bedroom1.jpg"),
-                "img2": require("./img/bedroom4.jpg"),
-                "img3": require("./img/bedroom3.jpg")
-            } 
-        },
-        {
-            "name": "Event Spaces",
-            "images": {
-                "img1": require("./img/event1.jpg"),
-                "img2": require("./img/event4.jpg"),
-                "img3": require("./img/event2.jpg")
-            } 
-        }
-    ]
+  {
+    name: "Dining & Restaurants",
+    images: {
+      img1: require("./img/img10.webp"),
+      img2: require("./img/img11.webp"),
+      img3: require("./img/img12.webp"),
+    },
+  },
+  {
+    name: "Packing Space",
+    images: {
+      img1: require("./img/img16.webp"),
+      img2: require("./img/img17.webp"),
+      img3: require("./img/img18.webp"),
+    },
+  },
+  {
+    name: "Spa",
+    images: {
+      img1: require("./img/img13.webp"),
+      img2: require("./img/img14.webp"),
+      img3: require("./img/img15.webp"),
+    },
+  },
+  {
+    name: "Resort & Pool",
+    images: {
+      img1: require("./img/img19.webp"),
+      img2: require("./img/img20.webp"),
+      img3: require("./img/img21.webp"),
+    },
+  },
+  {
+    name: "Casino",
+    images: {
+      img1: require("./img/img22.webp"),
+      img2: require("./img/img23.webp"),
+      img3: require("./img/img24.webp"),
+    },
+  },
+  {
+    name: "Bedrooms",
+    images: {
+      img1: require("./img/img4.webp"),
+      img2: require("./img/img6.webp"),
+      img3: require("./img/img8.webp"),
+    },
+  },
+  {
+    name: "Event Spaces",
+    images: {
+      img1: require("./img/img25.webp"),
+      img2: require("./img/img26.webp"),
+      img3: require("./img/img27.webp"),
+    },
+  },
+];
