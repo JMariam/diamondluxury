@@ -1,6 +1,6 @@
 {
-  "name": "my-project-react",
-  "homepage": "https://jmariam.github.io/diamondluxury",
+  "name": "diamondluxury",
+  "homepage": "https://jmariam.github.io/diamondluxury/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
